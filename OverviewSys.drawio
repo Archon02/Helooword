@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T15:43:56.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="VjhuFo5LMWPyzkxl74Ff" version="20.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T15:49:32.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="3aqkd9r9KVA2be6L_oW7" version="20.5.0" type="github">
   <diagram id="9sFnLMpEkX3xwLgNQpGo" name="Page-1">
-    <mxGraphModel dx="3830" dy="2065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3204" dy="1781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -241,16 +241,10 @@
         <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-111" value="Xem tài liệu" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="EZXSfr5UPJ4AgPNX8Fhg-90">
           <mxGeometry x="200" y="10" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-115" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="EZXSfr5UPJ4AgPNX8Fhg-90" source="EZXSfr5UPJ4AgPNX8Fhg-112" target="EZXSfr5UPJ4AgPNX8Fhg-111">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-112" value="Lưu tài liệu" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="EZXSfr5UPJ4AgPNX8Fhg-90">
-          <mxGeometry x="490" y="30" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-114" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;startArrow=none;" edge="1" parent="EZXSfr5UPJ4AgPNX8Fhg-90" source="EZXSfr5UPJ4AgPNX8Fhg-131" target="EZXSfr5UPJ4AgPNX8Fhg-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-110" value="Đăng tài liệu lên" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="EZXSfr5UPJ4AgPNX8Fhg-90">
+        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-110" value="Gửi tài liệu" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="EZXSfr5UPJ4AgPNX8Fhg-90">
           <mxGeometry x="250" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-131" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="EZXSfr5UPJ4AgPNX8Fhg-90">
@@ -264,9 +258,6 @@
         </mxCell>
         <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-138" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="EZXSfr5UPJ4AgPNX8Fhg-90">
           <mxGeometry x="130" y="270" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-140" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="EZXSfr5UPJ4AgPNX8Fhg-90">
-          <mxGeometry x="390" y="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-139" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="EZXSfr5UPJ4AgPNX8Fhg-90">
           <mxGeometry x="140" y="50" width="60" height="30" as="geometry" />
@@ -373,7 +364,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-165" value="Upload file tài liệu" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="EZXSfr5UPJ4AgPNX8Fhg-157">
-          <mxGeometry x="570" y="360" width="120" height="80" as="geometry" />
+          <mxGeometry x="570" y="360" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-171" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="EZXSfr5UPJ4AgPNX8Fhg-157">
           <mxGeometry x="360" y="130" width="60" height="30" as="geometry" />
