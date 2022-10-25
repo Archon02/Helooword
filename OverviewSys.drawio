@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T14:40:16.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="BnnD41YNz4ZV0JnopoVW" version="20.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T14:42:01.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="JH2JMsNI32XN_kt6CKYU" version="20.5.0" type="github">
   <diagram id="9sFnLMpEkX3xwLgNQpGo" name="Page-1">
     <mxGraphModel dx="2816" dy="1991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -117,6 +117,9 @@
         </mxCell>
         <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-35" value="Người dùng" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-260" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-53" value="Người dạy" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="1200" width="80" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
