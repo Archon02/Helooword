@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T15:13:23.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="-2EXkgVjl7uH10eU2-Hn" version="20.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T15:28:06.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="eNQFAgTlyhp6Q2zh5Bnk" version="20.5.0" type="github">
   <diagram id="9sFnLMpEkX3xwLgNQpGo" name="Page-1">
     <mxGraphModel dx="4024" dy="2153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -149,13 +149,13 @@
           <mxGeometry x="120" width="255" height="140" as="geometry" />
         </mxCell>
         <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-64" value="Xoá lớp học" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="EZXSfr5UPJ4AgPNX8Fhg-54">
-          <mxGeometry x="220" y="180" width="255" height="140" as="geometry" />
+          <mxGeometry x="300" y="220" width="255" height="140" as="geometry" />
         </mxCell>
         <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-65" value="Xoá người học&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="EZXSfr5UPJ4AgPNX8Fhg-54">
           <mxGeometry x="90" y="390" width="255" height="140" as="geometry" />
         </mxCell>
         <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-66" value="Thêm người học&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="EZXSfr5UPJ4AgPNX8Fhg-54">
-          <mxGeometry x="420" y="360" width="255" height="140" as="geometry" />
+          <mxGeometry x="520" y="410" width="255" height="140" as="geometry" />
         </mxCell>
         <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-67" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Chấp nhận/ Từ chối cho người&amp;nbsp; tham gia&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="EZXSfr5UPJ4AgPNX8Fhg-54">
           <mxGeometry x="190" y="630" width="255" height="140" as="geometry" />
