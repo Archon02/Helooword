@@ -1,14 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T14:26:34.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Gaeby-ank0ANSCMssFna" version="20.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T14:28:10.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="nngkyA639pA9bMatukyT" version="20.5.0" type="github">
   <diagram id="9sFnLMpEkX3xwLgNQpGo" name="Page-1">
     <mxGraphModel dx="1278" dy="1679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EZXSfr5UPJ4AgPNX8Fhg-1" target="EZXSfr5UPJ4AgPNX8Fhg-10">
+        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EZXSfr5UPJ4AgPNX8Fhg-1" target="EZXSfr5UPJ4AgPNX8Fhg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EZXSfr5UPJ4AgPNX8Fhg-1" target="EZXSfr5UPJ4AgPNX8Fhg-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EZXSfr5UPJ4AgPNX8Fhg-1" target="EZXSfr5UPJ4AgPNX8Fhg-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-1" value="Người học&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="160" width="30" height="60" as="geometry" />
+          <mxGeometry x="20" y="170" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EZXSfr5UPJ4AgPNX8Fhg-3" target="EZXSfr5UPJ4AgPNX8Fhg-18">
           <mxGeometry relative="1" as="geometry" />
@@ -49,11 +55,17 @@
         <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-14" value="Đăng ký / Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="360" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-17" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="10" width="690" height="650" as="geometry" />
+        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-17" value="&#xa;&#xa;" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="50" width="690" height="650" as="geometry" />
         </mxCell>
         <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-18" value="Tạo lớp học&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZXSfr5UPJ4AgPNX8Fhg-17">
           <mxGeometry x="110" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-23" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;b id=&quot;docs-internal-guid-def37bf5-7fff-e7cd-ad57-8ef27c446c35&quot; style=&quot;font-weight: normal;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;gửi file liên kết từ máy tính&lt;/span&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZXSfr5UPJ4AgPNX8Fhg-17">
+          <mxGeometry x="90" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-24" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;b id=&quot;docs-internal-guid-7aa8ce0f-7fff-487a-06d5-051413833943&quot; style=&quot;font-weight: normal;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;trao đổi thông tin trong lớp học&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZXSfr5UPJ4AgPNX8Fhg-17">
+          <mxGeometry x="230" y="50" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
