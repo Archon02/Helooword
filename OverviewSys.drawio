@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T13:27:47.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.5.0" etag="gG_d32DLMxZXojA2KgTI" type="github"><diagram id="9sFnLMpEkX3xwLgNQpGo">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-25T14:24:52.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="TkjQhqn75jXzwSis9tLJ" version="20.5.0" type="github">
+  <diagram id="9sFnLMpEkX3xwLgNQpGo" name="Page-1">
+    <mxGraphModel dx="1278" dy="1679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EZXSfr5UPJ4AgPNX8Fhg-1" target="EZXSfr5UPJ4AgPNX8Fhg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-1" value="Người học&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-3" value="Người dạy" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="510" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-5" value="Đăng ký mở lớp học" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-6" value="Người quản lý" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-7" value="Khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-8" value="&#xa;&lt;b id=&quot;docs-internal-guid-c53052c6-7fff-33ee-c1e0-3ec148c205f4&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;p style=&quot;line-height:1.284;text-indent: 27pt;text-align: justify;margin-top:12pt;margin-bottom:12pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 14pt; font-family: &amp;quot;Times New Roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Người dùng sẽ được sử dụng các chức năng của hệ thống như tham gia vào lớp học, trao đổi thông tin trong lớp học, gửi file liên kết từ máy tính, …&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.284;text-indent: 27pt;text-align: justify;margin-top:12pt;margin-bottom:12pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 14pt; font-family: &amp;quot;Courier New&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;font-size: 7pt; font-family: &amp;quot;Times New Roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 14pt; font-family: &amp;quot;Times New Roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Người học đóng vai trò của người dùng khi đăng nhập vào hệ thống thông qua xác minh thông tin đã đăng ký, được phép truy cập vào lớp học.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.284;text-indent: 27pt;text-align: justify;margin-top:12pt;margin-bottom:12pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 14pt; font-family: &amp;quot;Times New Roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;- Người dạy đóng vai trò của người dùng khi đăng nhập vào hệ thống, được phép đăng ký mở lớp học, quản lý các lớp học.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.284;text-indent: 27pt;text-align: justify;margin-top:12pt;margin-bottom:12pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 14pt; font-family: &amp;quot;Courier New&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;font-size: 7pt; font-family: &amp;quot;Times New Roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 14pt; font-family: &amp;quot;Times New Roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Khách đóng vai trò của người dùng, người học, người dạy khi chưa đăng nhập vào hệ thống, được quyền đăng ký tài khoản.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.284;text-indent: 27pt;text-align: justify;margin-top:12pt;margin-bottom:12pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 14pt; font-family: &amp;quot;Courier New&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;font-size: 7pt; font-family: &amp;quot;Times New Roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 14pt; font-family: &amp;quot;Times New Roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Người quản lý đóng vai trò quản lý tài khoản người dùng, người học, người dạy, xem xét việc mở lớp của người dạy.&lt;/span&gt;&lt;/p&gt;&lt;/b&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-300" width="950" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-10" value="Tham gia lớp học" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-11" value="Quản lý tài khoản" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-12" value="Xem xét tạo lớp học" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-13" value="Quản lý lớp học&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-14" value="Đăng ký / Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-15" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-17" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="10" width="690" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-18" value="Tạo lớp học&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZXSfr5UPJ4AgPNX8Fhg-17">
+          <mxGeometry x="110" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
