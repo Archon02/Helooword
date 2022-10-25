@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T16:04:41.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="6TB8eiHT2JyAU5kltUIW" version="20.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T16:06:43.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="A2qIiLSn9Q40w8jP1iYs" version="20.5.0" type="github">
   <diagram id="9sFnLMpEkX3xwLgNQpGo" name="Page-1">
     <mxGraphModel dx="3666" dy="1991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,9 +21,6 @@
         </mxCell>
         <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-3" value="Người dạy" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="610" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="EZXSfr5UPJ4AgPNX8Fhg-6" target="EZXSfr5UPJ4AgPNX8Fhg-11">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="EZXSfr5UPJ4AgPNX8Fhg-6" target="EZXSfr5UPJ4AgPNX8Fhg-12">
           <mxGeometry relative="1" as="geometry" />
@@ -73,11 +70,8 @@
         <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-49" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="EZXSfr5UPJ4AgPNX8Fhg-17">
           <mxGeometry x="265" y="295" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-11" value="Quản lý tài khoản" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZXSfr5UPJ4AgPNX8Fhg-17">
-          <mxGeometry x="605" y="40" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-12" value="Xem xét tạo lớp học" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZXSfr5UPJ4AgPNX8Fhg-17">
-          <mxGeometry x="695" y="160" width="120" height="80" as="geometry" />
+          <mxGeometry x="610" y="80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EZXSfr5UPJ4AgPNX8Fhg-14" value="Đăng ký / Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EZXSfr5UPJ4AgPNX8Fhg-17">
           <mxGeometry x="600" y="580" width="120" height="80" as="geometry" />
